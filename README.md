@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### 🧠 Estadísticas de GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jhon-ever13&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhon-ever13&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
-
 ---
 
 ### 🔥 Racha de Contribuciones
